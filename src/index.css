@@ -11,8 +11,8 @@ body {
   background: rgb(25, 33, 52);
   background: linear-gradient(
     180deg,
-    rgba(25, 33, 52, 1) 28%,
-    rgba(7, 8, 21, 1) 75%
+    rgb(48, 75, 139) 28%,
+    rgb(28, 32, 89) 75%
   );
   color: white;
 }
@@ -33,7 +33,7 @@ code {
 }
 
 .ant-input::placeholder {
-  color: #5f6783 !important;
+  color: #757fa1 !important;
 }
 
 .ant-popover-arrow {
@@ -51,7 +51,7 @@ code {
 .ant-popover-inner {
   min-width: 260px !important;
   min-height: 140px !important;
-  border: 1px solid #21273a;
+  border: 1px solid #434f78;
   background-color: #0e111b !important;
 }
 
